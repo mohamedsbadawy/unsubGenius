@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 # 6. Run the application
 # Set environment variables if required (example for Flask)
-export FLASK_APP=app.py
+export FLASK_APP=main.py
 export FLASK_ENV=development
 
 # Start the Flask application
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 # 6. قم بتشغيل التطبيق
 # قم بضبط متغيرات البيئة إذا لزم الأمر (مثل Flask)
-export FLASK_APP=app.py
+export FLASK_APP=main.py
 export FLASK_ENV=development
 
 # شغّل تطبيق Flask
