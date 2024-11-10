@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request, jsonify
 import threading
 import imaplib
-import email
 from bs4 import BeautifulSoup
 import re
 import requests
@@ -199,7 +198,7 @@ def index():
 def howto():
     return render_template('howto.html')
 
-@app.route('/unsub/start', methods=['POST'])
+@app.route('/start', methods=['POST'])
 def start_task():
     global task_thread
     if task_status["running"]:
@@ -228,7 +227,7 @@ def start_task():
     return jsonify({"status": "Task started"})
 
 
-@app.route('/unsub/status', methods=['GET'])
+@app.route('/status', methods=['GET'])
 def get_status():
     return jsonify(task_status)
 
