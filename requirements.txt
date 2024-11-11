@@ -1,4 +1,4 @@
 flask
 bs4 
 requests
-imaplib
+imaplib2
