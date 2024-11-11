@@ -7,7 +7,7 @@
 
 ## English Description  
 
-**[UnsubGenius](https://haseboid.com/unsub)** is a simple and efficient tool to clean your inbox from spam and unwanted subscription emails. Built using Flask, this lightweight application automates the process of identifying unsubscribe links and decluttering your inbox in a secure and intuitive manner.
+**[UnsubGenius](https://unsub.haseboid.com)** is a simple and efficient tool to clean your inbox from spam and unwanted subscription emails. Built using Flask, this lightweight application automates the process of identifying unsubscribe links and decluttering your inbox in a secure and intuitive manner.
 
 ## 🔑 Features  
 - **Automated Scanning**: Detects unsubscribe links in your inbox automatically.  
@@ -19,7 +19,7 @@
 ## 🔧 How to Use  
 ### Use now from our live testing website
 ### Make sure you read the "how-to" first  
-1. Visit the live application: [UnsubGenius](https://haseboid.com/unsub).  
+1. Visit the live application: [UnsubGenius](https://unsub.haseboid.com).  
 2. Log in using your IMAP credentials (e.g., Gmail, Yahoo).  
 3. UnsubGenius will scan your inbox, find unsubscribe links, and process them automatically.  
 4. Optionally, enable the spam deletion feature for additional cleaning.  
@@ -75,7 +75,7 @@ deactivate
 
 ## الوصف  
 
-**[UnsubGenius](https://haseboid.com/unsub)** هو أداة بسيطة وفعّالة لتنظيف صندوق البريد الإلكتروني من الرسائل المزعجة والبريد غير المرغوب فيه. تم بناء التطبيق باستخدام Flask ويقدّم حلاً خفيفًا وآمنًا لإدارة بريدك الإلكتروني بسهولة.
+**[UnsubGenius](https://unsub.haseboid.com)** هو أداة بسيطة وفعّالة لتنظيف صندوق البريد الإلكتروني من الرسائل المزعجة والبريد غير المرغوب فيه. تم بناء التطبيق باستخدام Flask ويقدّم حلاً خفيفًا وآمنًا لإدارة بريدك الإلكتروني بسهولة.
 
 ## 🔑 الميزات  
 - **الفحص التلقائي**: يكتشف روابط إلغاء الاشتراك تلقائيًا في صندوق البريد الخاص بك.  
@@ -87,7 +87,7 @@ deactivate
 ## 🔧 كيفية الاستخدام  
 ### استخدم الآن من موقعنا للاختبار المباشر
 ### تأكد من قراءة دليل "كيفية الاستخدام" أولاً  
-1. قم بزيارة التطبيق المباشر: [UnsubGenius](https://haseboid.com/unsub).  
+1. قم بزيارة التطبيق المباشر: [UnsubGenius](https://unsub.haseboid.com).  
 2. قم بتسجيل الدخول باستخدام بيانات IMAP (مثل Gmail وYahoo).  
 3. سيقوم التطبيق بفحص بريدك الإلكتروني، والعثور على روابط إلغاء الاشتراك، ومعالجتها تلقائيًا.  
 4. اختر خيار حذف البريد المزعج إذا كنت ترغب في تنظيف إضافي.  
@@ -133,6 +133,6 @@ deactivate
 ```
 
 ---
-**Take control of your inbox now with [UnsubGenius](https://haseboid.com/unsub)!**  
-**استعد السيطرة على صندوق بريدك الإلكتروني الآن مع [UnsubGenius](https://haseboid.com/unsub)!**
+**Take control of your inbox now with [UnsubGenius](https://unsub.haseboid.com)!**  
+**استعد السيطرة على صندوق بريدك الإلكتروني الآن مع [UnsubGenius](https://unsub.haseboid.com)!**
 
